@@ -17,6 +17,7 @@ function App() {
       <Cube/>
       <Candle/>
       <br />
+      <Cube/>
     </div>
   );
 }
