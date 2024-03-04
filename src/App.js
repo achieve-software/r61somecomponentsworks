@@ -15,6 +15,8 @@ function App() {
       <Button/>
       <br />
       <Cube/>
+      <Candle/>
+      <br />
     </div>
   );
 }
