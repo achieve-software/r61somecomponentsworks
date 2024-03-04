@@ -1,6 +1,7 @@
 import './App.css';
 import Button from './components/Button';
 import Candle from './components/Candle';
+import Cube from './components/Cube';
 import Soci from './components/Soci';
 
 
@@ -13,7 +14,7 @@ function App() {
      <br />
       <Button/>
       <br />
-    
+      <Cube/>
     </div>
   );
 }
