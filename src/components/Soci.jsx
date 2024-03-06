@@ -2,6 +2,7 @@ import React from "react";
 import "./Soci.scss";
 
 const Soci = () => {
+  
   return (
     <ul className="social">
       <li className="social-item">

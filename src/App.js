@@ -18,7 +18,7 @@ function App() {
      <br />
       <Button/>
       <br />
-      
+      <Cube/>
       <Candle/>
       <br />
       <Cube/>
