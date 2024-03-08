@@ -3,7 +3,7 @@ import "./Button.scss";
 const Button = () => {
   return (
     <button>
-    <span>DOWNLOAD MY CV</span>
+    <span>DOWNLOAD MY-CV</span>
     <div class="top"></div>
     <div class="left"></div>
     <div class="bottom"></div>

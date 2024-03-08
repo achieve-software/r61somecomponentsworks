@@ -21,6 +21,7 @@ button {
 		letter-spacing: 2px;
 		font-weight: 600;
 	}
+	
 	&:before {
 		content: '';
 		position: absolute;
@@ -65,7 +66,7 @@ button {
 		bottom: 0;
 		right: 0;
 	}
-	
+
 	&:hover {
 		color: $color_2;
 		span {
