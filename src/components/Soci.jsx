@@ -58,7 +58,7 @@ const Soci = () => {
               fill="currentColor"
             />
           </svg>
-          <span className="social-name">Gmail</span> {/* Site ismi */}
+          <span className="social-name">Gm</span> {/* Site ismi */}
         </a>
       </li>
       <li className="social-item">
