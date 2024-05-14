@@ -4,13 +4,13 @@
 		-webkit-transform: translateX(-50%) rotate(-2deg);
 		transform: translateX(-50%) rotate(-2deg);
 	}
-	100% {
+	50% {
 		-webkit-transform: translateX(-50%) rotate(2deg);
 		transform: translateX(-50%) rotate(2deg);
 	}
 }
 @keyframes moveFlame {
-	10%,100% {
+	0%,100% {
 		-webkit-transform: translateX(-50%) rotate(-2deg);
 		transform: translateX(-50%) rotate(-2deg);
 	}
