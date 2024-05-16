@@ -17,6 +17,8 @@ function App() {
      <br />
      <Soci/>
      <br />
+     <Soci/>
+     <br />
       <Button/>
       <br />
       <Cube/>
