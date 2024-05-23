@@ -12,7 +12,9 @@ function App() {
     <Candle/>
      <br />
      <Soci/>
-     
+     <Candle/>
+     <br />
+     <Soci/>
      <br />
      <Soci/>
      <br />
