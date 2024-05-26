@@ -15,7 +15,7 @@ function App() {
          <Candle/>
      <br />
      <Soci/>
-     <Soci/>
+         <Soci/>
      <br />
      <Soci/>
      <br />
